@@ -4,14 +4,13 @@ An innovative online marketplace platform built using Spring Boot, React with Vi
 
 ## Table of Contents
 
-  - Project Overview
-  - Challenges Addressed
-  - System Roles
-  - Core Functionalities
-  - Technology Stack
-  - Getting Started
-  - Contributing
-  - License
+    - [Project Overview](#project-overview)
+    - [Challenges Addressed](#challenges-addressed)
+    - [System Roles](#system-roles)
+    - [Core Functionalities](#core-functionalities)
+    - [Technology Stack](#technology-stack)
+    - [Getting Started](#getting-started)
+    - [Contributing](#contributing)
     
 ## Project Overview
 
@@ -105,4 +104,4 @@ We welcome contributions! Please follow these steps to contribute:
     5. Open a pull request.
 ## License
 
-This project is licensed under the MIT [License](https://github.com/MoussaAkram/Marketplace/blob/main/LICENSE). See the LICENSE file for more details.
+This project is licensed under the Apache License 2.0. See the [Apache License](https://github.com/MoussaAkram/Marketplace/blob/main/LICENSE) file for more details.
